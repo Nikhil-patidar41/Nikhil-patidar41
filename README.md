@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Nikhil Patidar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 email: nikhilpatidar004@gmail.com
+
+
 
 <!---
 Nikhil-patidar41/Nikhil-patidar41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
